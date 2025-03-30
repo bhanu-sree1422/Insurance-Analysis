@@ -5,6 +5,7 @@ The Insurance Data Analysis project involves analyzing insurance data to uncover
 
 ##  Data set used
 ********************************
+https://github.com/bhanu-sree1422/Insurance-Analysis/blob/main/Insurance%20analytics%20(1).zip
 
 
 
