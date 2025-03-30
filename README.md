@@ -11,13 +11,20 @@ https://github.com/bhanu-sree1422/Insurance-Analysis/blob/main/Insurance%20analy
 *****************
 - i.	Target FY from Individual target sheet (New, Cross sell and Renewal) Fields to be referred (Column C, E, F and G)
 - ii.	Placed Achievement form Brokerage + Fees sheet (New, Cross sell and Renewal) (Brokerage sheet: Column G, J, M, K, L) (Fees Sheet: B, D, E, F, G)
-iii.	Invoiced Achievement from Invoice sheet (New, Cross sell and Renewal) Column (B, F, G, J)
-iv.	Percentage of Achievement for Placed and Invoice – (Achieved/budget)
-v.	No of meetings for current year – Meeting sheet (A, C, D)
-vi.	Open Oppty – Opportunity report (Column: C, E, F, G) (Stage ‘Open’ Column G = Propose Solution & Qualify Opportunity)
-vii.	Closed Won – Opportunity report (Column: C, E, F, G) (Stage ‘Won’ Column G = Won)
-viii.	Conversion Ratio (Closed Won/Total Opportunity)
-ix.	Further drill down to individual level top 10 open oppty and Win 
+- iii.	Invoiced Achievement from Invoice sheet (New, Cross sell and Renewal) Column (B, F, G, J)
+- iv.	Percentage of Achievement for Placed and Invoice – (Achieved/budget)
+- v.	No of meetings for current year – Meeting sheet (A, C, D)
+- vi.	Open Oppty – Opportunity report (Column: C, E, F, G) (Stage ‘Open’ Column G = Propose Solution & Qualify Opportunity)
+- vii.	Closed Won – Opportunity report (Column: C, E, F, G) (Stage ‘Won’ Column G = Won)
+- viii.	Conversion Ratio (Closed Won/Total Opportunity)
+- ix.	Further drill down to individual level top 10 open oppty and Win
+
+  ## Process
+  ***********************
+  - Verify data for any missing values and anomiles and sort out the same.
+  - Made sure data is consistent and clean with respect to data type, data formal and values used.
+  - Created pivot tables accordingly to the questions asked.
+  - Merge all pivot tables into one dashboard and apply slicer to make dynamic. 
 
 
 
