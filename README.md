@@ -9,8 +9,8 @@ https://github.com/bhanu-sree1422/Insurance-Analysis/blob/main/Insurance%20analy
 
 ## KPI
 *****************
-i.	Target FY from Individual target sheet (New, Cross sell and Renewal) Fields to be referred (Column C, E, F and G)
-ii.	Placed Achievement form Brokerage + Fees sheet (New, Cross sell and Renewal) (Brokerage sheet: Column G, J, M, K, L) (Fees Sheet: B, D, E, F, G)
+- i.	Target FY from Individual target sheet (New, Cross sell and Renewal) Fields to be referred (Column C, E, F and G)
+- ii.	Placed Achievement form Brokerage + Fees sheet (New, Cross sell and Renewal) (Brokerage sheet: Column G, J, M, K, L) (Fees Sheet: B, D, E, F, G)
 iii.	Invoiced Achievement from Invoice sheet (New, Cross sell and Renewal) Column (B, F, G, J)
 iv.	Percentage of Achievement for Placed and Invoice – (Achieved/budget)
 v.	No of meetings for current year – Meeting sheet (A, C, D)
